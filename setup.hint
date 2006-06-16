@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libX11_6 libXext6 libXp6 libXprintUtil1
+sdesc: "Xorg X DBE demo"
+ldesc: "Xorg X DBE demo"
