@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXext6
-sdesc: "Xorg X DBE demo"
-ldesc: "Xorg X DBE demo"
+sdesc: "X.Org X DBE demo"
+ldesc: "X.Org X DBE demo"
