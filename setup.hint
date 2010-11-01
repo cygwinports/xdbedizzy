@@ -1,4 +1,4 @@
 category: X11
 requires: libX11_6 libXext6
-sdesc: "X.Org X DBE demo"
-ldesc: "X.Org X DBE demo"
+sdesc: "X.Org X Double Buffer Extension demo"
+ldesc: "X.Org X Double Buffer Extension demo"
