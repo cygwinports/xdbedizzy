@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="xdbedizzy"
+VERSION=1.1.0
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X Double Buffer Extension demo"
+DESCRIPTION="xdbedizzy is a demo of DBE creating a double buffered spinning
+scene."
